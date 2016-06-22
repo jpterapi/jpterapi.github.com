@@ -1,46 +1,19 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Velkommen til
+tagline: 
 ---
+
+## Hej
+
+Jeg er selvstændig japansk akupunktør og shiatsu,sports massør, som har japansk national licens.
+
+鍼灸按摩マッサージ、トータルケアの治療院です。日本の国家資格所有。
+
+## Lidt om mig
+
+Jeg hedder Chiori Barkarson. Jeg blev uddannet som japansk akupunktør og shiatsu massør i 2004. Jeg har lært sports massage, kinesisk zoneterapi og traditionel thai massage i de lande hvor uddannelserne har deres oprindelse. Det er vigtigt at kunderne bliver friske og jeg vil gerne hjælpe med at forbedre patientens helbred. Jeg glæder mig til at se jer.
+
+この度コペンハーゲンに鍼灸マッサージ治療院を開業することになりました。日本で十数年の鍼灸専門クリニック、スポーツマッサージ治療院勤務の他、台湾やタイ研修などで培った経験を活かし、患者様の不調を改善するお手伝いができればと思います。どんな些細な事でもお気軽にお声をおかけくださいませ。
+
 {% include JB/setup %}
-
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
